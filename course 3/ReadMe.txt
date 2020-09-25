@@ -1,3 +1,4 @@
+Capstone project for Data Collection and Processing with Python
 Project: OMDB and TasteDive Mashup
 
 This project will take you through the process of mashing up data from two different APIs to make movie recommendations. 
