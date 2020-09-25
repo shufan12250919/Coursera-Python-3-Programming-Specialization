@@ -1,3 +1,4 @@
+Capstone Project for Data Collection and Processing with Python
 Project - Part 1: Sentiment Classifier
 
 We have provided some synthetic (fake, semi-randomly generated) twitter data in a csv file named project_twitter_data.csv which has the text of a tweet,
