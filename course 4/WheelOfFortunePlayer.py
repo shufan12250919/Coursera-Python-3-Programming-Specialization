@@ -32,6 +32,7 @@ Phrase:  {}
 Guessed: {}
 
 Guess a letter, phrase, or type 'exit' or 'pass':""".format(self.name, self.prizeMoney, category, obscuredPhrase, guessed)
+        return input(prompt)
     
 # Write the WOFComputerPlayer class definition (part C) here
 class WOFComputerPlayer(WOFPlayer):
