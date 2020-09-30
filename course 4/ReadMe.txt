@@ -1,3 +1,4 @@
+Course four capstone project: Wheel of Fortune
 This project will take you through the process of implementing a simplified version of the game Wheel of Fortune. Here are the rules of our game:
 
 There are num_human human players and num_computer computer players.
